@@ -1,0 +1,19 @@
+{
+  "name": "cybriaos",
+  "version": "1.0.0",
+  "description": "CybriaOS is a highly interactive Operating System rich with apps of all kinds, made by CybraTech or other services including Games, Proxies, Chat Apps (Maybe) and much more!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CybriaTech",
+  "license": "ISC",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^2.0.1",
+    "@types/node": "^18.0.6",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.2.6",
+    "node-static": "^0.7.11",
+    "serve-static": "^1.15.0"
+  }
+}
