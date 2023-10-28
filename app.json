@@ -1,0 +1,7 @@
+{
+    "name": "CybriaOS",
+    "description": "CybriaOS is a highly interactive Operating System rich with apps of all kinds, made by CybraTech or other services including Games, Proxies, Chat Apps (Maybe) and much more!",
+    "repository": "https://github.com/CybriaTech/CybriaOS/",
+    "logo": "https://github.com/CybriaTech/CybriaOS/blob/main/static/img/CybriaTech/CybriaOS-full.png?raw=true",
+    "keywords": ["operatingsystem", "ultraviolet", "os", "CybriaTech", "games", "chatroom", "proxy"]
+}
